@@ -1,2 +1,2 @@
-# Snake-game
-Implementing several key functionalities, including controlling the snake's movement, detecting collisions, generating food, and managing game states. 
+# C-Snake-Game
+ C++ Snake Game | C++ Snake Terminal Game
